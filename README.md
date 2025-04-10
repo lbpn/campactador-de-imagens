@@ -1,0 +1,1 @@
+# campactador-de-imagens
