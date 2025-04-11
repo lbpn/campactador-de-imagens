@@ -1,4 +1,5 @@
 Compactador de Imagens
+
 Um compactador de imagens baseado em HTML, CSS e JavaScript que permite reduzir o tamanho de imagens JPG e PNG sem perda significativa de qualidade. Suporta dois modos de compressão: redução de resolução e redução de cores (mantendo a resolução original), com pré-visualização em tempo real e indicadores de tamanho e resolução.
 Funcionalidades
 Suporte a JPG e PNG: Carregue imagens nos formatos mais comuns.
