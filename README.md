@@ -48,3 +48,6 @@ CSS3: Estilização moderna com sombras, transições e layout responsivo.
 
 JavaScript: Lógica de compressão, manipulação de canvas e eventos interativos.
 
+
+![Screenshot do Compactador de Imagens](./Screenshot.png)
+
