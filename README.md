@@ -1,19 +1,28 @@
 Compactador de Imagens
 
-Um compactador de imagens baseado em HTML, CSS e JavaScript que permite reduzir o tamanho de imagens JPG e PNG sem perda significativa de qualidade. Suporta dois modos de compressão: redução de resolução e redução de cores (mantendo a resolução original), com pré-visualização em tempo real e indicadores de tamanho e resolução.
+Um compactador de imagens baseado em HTML, CSS e JavaScript que permite reduzir o tamanho de imagens JPG e PNG sem perda significativa de qualidade. 
+
+Suporta dois modos de compressão: 
+redução de resolução e redução de cores (mantendo a resolução original), com pré-visualização em tempo real e indicadores de tamanho e resolução.
+
 Funcionalidades
+
 Suporte a JPG e PNG: Carregue imagens nos formatos mais comuns.
 
 Modos de Compressão:
+
 Reduzir Resolução: Diminui as dimensões da imagem proporcionalmente ao nível de compactação.
 
 Sem Reduzir Resolução: Mantém as dimensões originais, reduzindo o número de cores para compactação.
 
-Pré-visualização em Tempo Real: Veja a imagem original e compactada lado a lado, com atualização dinâmica ao ajustar o slider.
+Pré-visualização em Tempo Real: 
+Veja a imagem original e compactada lado a lado, com atualização dinâmica ao ajustar o slider.
 
-Indicadores: Exibe resolução (largura x altura em pixels) e tamanho do arquivo (em KB) para ambas as imagens.
+Indicadores: 
+Exibe resolução (largura x altura em pixels) e tamanho do arquivo (em KB) para ambas as imagens.
 
-Slider Interativo: Ajuste o nível de compactação de 10% (mínima) a 100% (máxima) com debounce para melhor desempenho.
+Slider Interativo: 
+Ajuste o nível de compactação de 10% (mínima) a 100% (máxima) com debounce para melhor desempenho.
 
 Download: Baixe a imagem compactada como PNG.
 
