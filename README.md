@@ -33,6 +33,8 @@ Clique no botão "Baixar Imagem" para salvar a versão compactada como PNG.
 Tecnologias Utilizadas
 
 HTML5: Estrutura da página e canvas para manipulação de imagens.
+
 CSS3: Estilização moderna com sombras, transições e layout responsivo.
+
 JavaScript: Lógica de compressão, manipulação de canvas e eventos interativos.
 
